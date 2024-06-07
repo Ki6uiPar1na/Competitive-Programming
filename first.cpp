@@ -13,7 +13,11 @@ using namespace std;
 #define tc ll t; cin >> t; while(t--)
 #define int long long
 void solve() {
-    cout << "Khairul\n";
+    // cout << "Khairul\n";
+    tc{
+        int n; cin >> n;
+        cout << n << endl;
+    }
 }
 
 int32_t main() {
