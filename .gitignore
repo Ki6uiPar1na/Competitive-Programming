@@ -1,0 +1,6 @@
+# Ignore all files except those with .cpp, .py, or .java extensions
+*
+!*.cpp
+!*.py
+!*.java
+!*.gitignore

@@ -1,8 +1,8 @@
 /*____________________________________________________
 |Author: Ki6ui-Par1na
 |Date: 2024/06/07
-|Time: 18:53:11
-|Problem: FIrst
+|Time: 19:16:11
+|Problem: first
 |____________________________________________________*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -13,7 +13,7 @@ using namespace std;
 #define tc ll t; cin >> t; while(t--)
 #define int long long
 void solve() {
-    cout << "New" << endl;
+    cout << "Khairul\n";
 }
 
 int32_t main() {
